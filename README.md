@@ -1,7 +1,6 @@
 # LinuxH - Linux Hardening & Inspection Tool
 
 ![Bash](https://img.shields.io/badge/Bash-4.0%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
 ![GitHub](https://img.shields.io/badge/GitHub-Ready-brightgreen)
 
