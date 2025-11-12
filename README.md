@@ -6,7 +6,7 @@
 
 A comprehensive, safe-by-default Linux security hardening and inspection tool designed for system administrators and security professionals.
 
-**Note: This script will only be able to install openvpn and configure default firewall and scan for backdoors and malware rest like connecting to vpn.setting port firewall rules and removing scanned malware need to be manually done as it is not a safe operation for the script to perform**
+**Note: This script will only be able to install openvpn and configure default firewall and scan for backdoors and malware; rest like connecting to vpn,setting port firewall rules and removing scanned malware need to be manually done as it is not a safe operation for the script to perform**
 
 ## 🚀 Quick Installation
 
